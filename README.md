@@ -1,6 +1,7 @@
 # Library
 
 > Java Spring MVC Project
+
 This repository is an example for Spring MVC and MongoDB integration with Ajax and JavaScript
 
 >For Mongo DB
